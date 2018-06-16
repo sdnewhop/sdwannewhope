@@ -5,10 +5,10 @@ What do you know about SD-WAN? What the "security" means from hand-on perspectiv
 The goal of this project is to give answers on the questions by analysing different real SD-WAN solutions from the adversaries' point of view.
 
 ## Resources
-* [SD-WAN search queries](enumeration.md)
+* [SD-WAN search queries](census.md)
 
 ## Talks
-* Practical threat modelling for software defined network. Area41. 2018.
+* SD-WAN New Hop. Practical threat modelling for SD-WAN. Area41. 2018.
 
 ## Contributors
 - [Sergey Gordeychick](https://twitter.com/scadasl)
