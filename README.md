@@ -8,7 +8,7 @@ The goal of this project is to give answers on the questions by analysing differ
 * [SD-WAN search queries](census.md)
 
 ## Talks
-* SD-WAN New Hop. Practical threat modelling for SD-WAN. Area 41. 2018. [[Slides]](https://github.com/sdnewhop/sdwannewhope/blob/master/SDWAN%20-%20Area%2041.pdf).
+* SD-WAN New Hop. Practical threat modelling for SD-WAN. Area 41. 2018.
 
 ## Contributors
 - [Sergey Gordeychick](https://twitter.com/scadasl)
