@@ -3,7 +3,7 @@
 ## Table of Contents
 - [VMWare NSX SD-WAN](#vmware-nsx-sd-wan)
 - [TELoIP VINO SD-WAN](#teloip-vino-sd-wan)
-- [Fatpipe SYMPHONY SD-WAN]()
+- [Fatpipe SYMPHONY SD-WAN](#fatpipe-symphony-sd-wan)
 - [Cisco SD-WAN](#cisco-sd-wan)
 - [Versa Networks](#versa-networks)
 - [Riverbed SD-WAN](#riverbed-steelconnect)
