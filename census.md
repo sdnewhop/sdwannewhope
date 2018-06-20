@@ -82,6 +82,8 @@
 ### Versa Analytics
 #### Shodan
 * versa-analytics port:161
+* "van_analytics" port:9160
+* ssl:"versa-analytics"
 
 ### Versa Flex VNF
 #### Google
