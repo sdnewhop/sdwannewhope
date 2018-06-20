@@ -101,7 +101,8 @@
 
 #### Shodan
 * "server: Versa Director"
-* ssl:O=versa-networks
+* ssl:"VersaDirector"
+* ssl:"versa-director"
 
 #### Censys
 * 80.http.get.body_sha256: 1d10f43efe5e0da430042178c7c8040d011bd5461279c5006ddabf867aae96cf
