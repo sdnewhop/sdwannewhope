@@ -143,7 +143,8 @@
 * vxoaSessionID
 * "Silver Peak Systems Inc"
 * VXOA
-* ssl:"Silverpeak" Location
+* ssl:"Silverpeak"
+* ssl:"silver-peak"
 
 ### Censys
 * 443.https.tls.certificate.parsed.subject.organization: Silver Peak Systems Inc
