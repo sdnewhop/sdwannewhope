@@ -15,7 +15,7 @@ The goal of this project is to give answers on the questions by analysing differ
 - [Alex Timorin](https://twitter.com/atimorin)
 - [Denis Kolegov](https://twitter.com/dnkolegov)
 - Maxim Gorbunov
-- Nikolay Tkachenko
+- [Nikolay Tkachenko](https://twitter.com/afr1ka_)
 - [Nikita Oleksov](https://twitter.com/neoleksov)
 - [Oleg Broslavsky](https://twitter.com/yalegko)
 - [Antony Nikolaev](https://github.com/manmolecular)
