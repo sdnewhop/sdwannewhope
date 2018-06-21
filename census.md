@@ -159,7 +159,7 @@
 
 ## CloudGenix SD-WAN
 ### Shodan
-* ssl:"O=CloudGenix Inc"*
+* ssl:"O=CloudGenix Inc"
 
 ### Censys
 * 443.https.tls.chain.parsed.issuer.organization: CloudGenix Inc
