@@ -129,19 +129,22 @@
 80.http.get.body:"Riverbed SteelHead"
 
 ## Citrix NetScaler SD-WAN
+
+### NetScaler SD-WAN
+
 ### Google
 * intitle:"Citrix NetScaler SD-WAN - Login"
-* intitle:"SD-WAN Center | Login" -site:*.citrix.com
 
 ### Shodan
 * http.favicon.hash:-1272756243 title:"Citrix NetScaler SD-WAN - Login"
+
+### NetScaler SD-WAN Center
+#### Google
+* intitle:"SD-WAN Center | Login" -site:*.citrix.com
+
+#### Shodan
 * http.favicon.hash:-1272756243 title:"SD-WAN Center*Login"
 * VWCSession
-
-### Censys
-* 80.http.get.body_sha256: 8c718665cfde50709e358652181e7f4fdba222068de7150b635b360abf646b94
-* 80.http.get.title: "Citrix Secure Sign In"
-* 80.http.get.title: "Citrix Access Gateway"*
 
 ## Silver Peak
 ### Google
