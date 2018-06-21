@@ -107,19 +107,26 @@
 #### Censys
 * 80.http.get.body_sha256: 1d10f43efe5e0da430042178c7c8040d011bd5461279c5006ddabf867aae96cf
 
-## Riverbed SteelConnect
+## Riverbed 
+
+### Riverbed SteelConnect
 ### Google
-* intitle:"Riverbed Azure Appliance"
-* intitle:"Riverbed AWS Appliance"
+* intitle:"SteelConnect Manager"
 
 ### Shodan
-* title:"Riverbed Azure Appliance"
+* title:"SteelConnect Manager"
 * title:"Riverbed AWS Appliance"
+
+### Riverbed SteelHead
+### Google
+* "Riverbed SteelHead" "Your browser may not be compatible."
+
+### Shodan
 * ssl:Riverbed Apache
 * http.favicon.hash:-1338133217
 
 ### Censys
-* (80.http.get.body:"Riverbed SteelHead") AND (443.https.dhe.dh_params.prime.value: "///////////JD9qiIWjCNMTGYouA3BzRKQJOCIpnzHQCC76mOxObIlFKCHmONATd75UZs806QxswKwpt8l8UN0/hNW1tUcJF5IW1dmJefsb0TELppjftawv/XLb0Brft7jhr+1qJn6WunyQRfEsf5kkoZlHs5lOB//////////8=")
+80.http.get.body:"Riverbed SteelHead"
 
 ## Citrix NetScaler SD-WAN
 ### Google
