@@ -4,8 +4,8 @@ Software-defined networking in a wide area network (SD-WAN) quickly becomes very
 What do you know about SD-WAN? What the "security" means from hand-on perspective? Are present SD-WAN solutions really secure? 
 The goal of this project is to give answers on the questions by analysing different real SD-WAN solutions from the adversaries' point of view.
 
-## Resources
-* [SD-WAN search queries](census.md)
+## SD-WAN Census
+* [SD-WAN Census](census.md)
 
 ## Talks
 * SD-WAN New Hop. Practical threat modelling for SD-WAN. Area 41. 2018.
