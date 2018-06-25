@@ -1,6 +1,9 @@
 # SD-WAN Internet Census
 
-## Table of Contents
+## Overview
+The most popular and known SD-WAN solutions are enumerated using search engines.
+
+## Vendors
 - [VMWare NSX SD-WAN](#vmware-nsx-sd-wan)
 - [TELoIP VINO SD-WAN](#teloip-vino-sd-wan)
 - [Fatpipe SYMPHONY SD-WAN](#fatpipe-symphony-sd-wan)
@@ -185,7 +188,6 @@
 * http.favicon.hash:1069145589 title:"SD-WAN*Portal"
 * http.favicon.hash:1069145589 title:"Architect"
 * http.favicon.hash:1069145589 title:"VNS portal"
-
 
 ### Censys
 * 80.http.get.title: "Nuage"
