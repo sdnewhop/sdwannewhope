@@ -133,7 +133,7 @@ The most popular and known SD-WAN solutions are enumerated using search engines.
 
 ## Citrix NetScaler SD-WAN
 
-### NetScaler SD-WAN
+### Citrix NetScaler SD-WAN VPX
 
 ### Google
 * intitle:"Citrix NetScaler SD-WAN - Login"
@@ -141,7 +141,7 @@ The most popular and known SD-WAN solutions are enumerated using search engines.
 ### Shodan
 * http.favicon.hash:-1272756243 title:"Citrix NetScaler SD-WAN - Login"
 
-### NetScaler SD-WAN Center
+### Citrix NetScaler SD-WAN Center
 #### Google
 * intitle:"SD-WAN Center | Login" -site:*.citrix.com
 
@@ -150,18 +150,27 @@ The most popular and known SD-WAN solutions are enumerated using search engines.
 * VWCSession
 
 ## Silver Peak
+### Silver Peak Unity Orchestrator
 ### Google
-* "By using this product, you agree to be bound by the terms of Silver Peak Systems"
+* "Welcome to Unity Orchestrator"
+
+### Shodan
+* gmsSessionID
+* SSL:"Silverpeak GMS"
+
+### Censys
+* 443.https.tls.certificate.parsed.subject.common_name: "Silverpeak GMS"
+
+### Silver Peak Unity EdgeConnect
+
+### Google
+* "Silver Peak Appliance Management Console"
 
 ### Shodan
 * vxoaSessionID
-* "Silver Peak Systems Inc"
-* VXOA
-* ssl:"Silverpeak"
 * ssl:"silver-peak"
 
 ### Censys
-* 443.https.tls.certificate.parsed.subject.organization: Silver Peak Systems Inc
 * 80.http.get.body: "By using this product, you agree to be bound by the terms of Silver Peak Systems Inc. " AND 443.https.tls.certificate.parsed.issuer.common_name: "silver-peak"
 
 ## CloudGenix SD-WAN
