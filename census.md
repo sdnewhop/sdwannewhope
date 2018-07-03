@@ -138,6 +138,7 @@ The most popular and known SD-WAN solutions are enumerated using search engines.
 ### Shodan
 * ssl:Riverbed Apache
 * http.favicon.hash:-1338133217
+* title:"amnesiac Sign in"
 
 ### Censys
 * 80.http.get.body:"Riverbed SteelHead"
