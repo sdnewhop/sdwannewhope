@@ -242,24 +242,30 @@ The most popular and known SD-WAN solutions are enumerated using search engines.
 * 80.http.get.body: "© 2017 Talari Networks"
 
 ## Aryaka SD-WAN
-### Shodan
+### Aryaka Network Access Point
+#### Google 
+* intitle:"Aryaka, Welcome"
+
+#### Shodan
 * title:"Aryaka"
 * "Aryaka Networks"
 * http.favicon.hash:-1423557501
 * title:"Aryaka, Welcome"
 
-### Censys
+#### Censys
 * 443.https.tls.certificate.parsed.subject.organization:"Aryaka Networks, Inc."
 
 ## InfoVista SD-WAN
-### Google
+### InfoVista SALSA
+#### Google
 * inurl:"/salsa/salsa_portal/"
 
-### Shodan
+#### Shodan
 * ssl:"SALSA Portal"
 * "Server: Apache"+title:"SALSA"*"Login" port:443
+* title:"SALSA Login"
 
-### Censys
+#### Censys
 * 80.http.get.title: ("SALSA" AND "Login")
 * 443.https.tls.certificate.parsed.subject.organization: "Ipanema Technologies"
 * 80.http.get.body_sha256:0cb459544a3772af457d2538c8de21c3e287e1920b4cc3f472fcd7a85d0acb14
@@ -272,8 +278,17 @@ The most popular and known SD-WAN solutions are enumerated using search engines.
 * 80.http.get.title:"agile controller"
 * 80.http.get.body_sha256:07f90f2912ebcf26b4b372a79e7ac91a2ff5f426e9aabc6b81b30298e18f47f6
 
-## ZTE ElasticNet SDN
-
-## Arista Networks EOS
-### Shodan
+## Arista Networks
+### Arista Networks EOS
+#### Shodan
 * "Arista Networks EOS"
+
+## Sonus SD-WAN
+### Sonus SBC Management Application
+#### Shodan
+* title:"SBC Management Application"
+
+### Sonus SBC Edge
+#### Shodan
+* title:"SBC 1000"
+* title:"SBC Edge"
