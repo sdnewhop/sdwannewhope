@@ -20,7 +20,7 @@ The most popular and known SD-WAN solutions are enumerated using search engines.
 - [Aryaka SD-WAN](#aryaka-sd-wan)
 - [InfoVista SD-WAN](#infovista-sd-wan)
 - [Huawei SD-WAN](#huawei-sd-wan)
-- [Sonus SD-WAN](#sonus)
+- [Sonus SD-WAN](#sonus-sd-wan)
 - [Arista Networks EOS](#arista-networks-eos)
 
 ## VMWare NSX SD-WAN
