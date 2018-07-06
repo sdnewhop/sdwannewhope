@@ -20,7 +20,7 @@ The most popular and known SD-WAN solutions are enumerated using search engines.
 - [Aryaka SD-WAN](#aryaka-sd-wan)
 - [InfoVista SD-WAN](#infovista-sd-wan)
 - [Huawei SD-WAN](#huawei-sd-wan)
-- [ZTE ElasticNet SDN](#zte-elasticnet-sdn)
+- [Sonas SD-WAN](#sonas)
 - [Arista Networks EOS](#arista-networks-eos)
 
 ## VMWare NSX SD-WAN
@@ -278,11 +278,6 @@ The most popular and known SD-WAN solutions are enumerated using search engines.
 * 80.http.get.title:"agile controller"
 * 80.http.get.body_sha256:07f90f2912ebcf26b4b372a79e7ac91a2ff5f426e9aabc6b81b30298e18f47f6
 
-## Arista Networks
-### Arista Networks EOS
-#### Shodan
-* "Arista Networks EOS"
-
 ## Sonus SD-WAN
 ### Sonus SBC Management Application
 #### Shodan
@@ -292,3 +287,8 @@ The most popular and known SD-WAN solutions are enumerated using search engines.
 #### Shodan
 * title:"SBC 1000"
 * title:"SBC Edge"
+
+## Arista Networks
+### Arista Networks EOS
+#### Shodan
+* "Arista Networks EOS"
