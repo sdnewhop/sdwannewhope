@@ -22,6 +22,9 @@ The most popular and known SD-WAN solutions are enumerated using search engines.
 - [Huawei SD-WAN](#huawei-sd-wan)
 - [Sonus SD-WAN](#sonus-sd-wan)
 - [Arista Networks EOS](#arista-networks-eos)
+- [128 Technology](#128-technology)
+- [Glue Networks](#glue-networks)
+- [Barracuda Networks](#barracuda-networks)
 
 ## VMWare NSX SD-WAN
 ### Google
@@ -279,16 +282,39 @@ The most popular and known SD-WAN solutions are enumerated using search engines.
 * 80.http.get.body_sha256:07f90f2912ebcf26b4b372a79e7ac91a2ff5f426e9aabc6b81b30298e18f47f6
 
 ## Sonus SD-WAN
-### Sonus SBC Management Application
-#### Shodan
-* title:"SBC Management Application"
-
 ### Sonus SBC Edge
 #### Shodan
-* title:"SBC 1000"
-* title:"SBC Edge"
+* title:"Sonus SBC Edge Web Interface"
+
+#### Censys
+* 80.http.get.title: "Sonus SBC Edge Web Interface"
 
 ## Arista Networks
 ### Arista Networks EOS
 #### Shodan
 * "Arista Networks EOS"
+
+## 128 Technology
+### 128 Technology Networking Platform
+#### Shodan
+* http.title:"128T Networking Platform"
+* http.favicon.hash:-1556425248
+
+#### Censys
+* 80.http.get.title: "128T Networking Platform"
+
+## Glue Networks
+### Gluware Control
+#### Shodan
+* title:"Gluware Control"
+
+#### Censys
+* 80.http.get.title: "Gluware Control"
+
+## Barracuda Networks
+### Barracuda CloudGen Firewall
+#### Shodan
+* ssl:"Barracuda CloudGen Firewall" port:"443"
+
+#### Censys
+* "Barracuda Cloudgen Firewall"
