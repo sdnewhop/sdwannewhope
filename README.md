@@ -11,6 +11,7 @@ The goal of this project is to give answers on these questions by analysing diff
 * [SD-WAN Census Queries List](census.md)
 * [SD-WAN Census Version Leakage List](leakage.md)
 * [Silverpeak EdgeConnect Multiple Vulnerabilities](https://github.com/sdnewhop/sdwannewhope/blob/master/Silverpeak%20EdgeConnect%20Multiple%20Vulnerabilities%20-%20032018.pdf)
+* [Riverbed SteelConnect Vulnerabilities](https://github.com/sdnewhop/sdwannewhope/blob/master/Riverbed%20SteelConnect%20Vulnerabilities.pdf)
 
 ## Tools
 * [SD-WAN Harvester](https://github.com/sdnewhop/sdwan-harvester)
