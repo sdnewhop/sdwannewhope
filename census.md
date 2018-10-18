@@ -168,6 +168,7 @@ Confidence: Certain
 
 ### Shodan
 * http.favicon.hash:-1272756243 title:"Citrix NetScaler SD-WAN - Login"
+* title:"DC | Login" and ssl:"Citrix"
 
 ### Censys
 * 443.https.tls.certificate.parsed.fingerprint_sha256:8199d53cf2832a133344559b09987b1d4830e643497f5f01d3178beb379ee7a5
