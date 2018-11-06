@@ -26,6 +26,8 @@ The most popular and known SD-WAN solutions are enumerated using search engines.
 - [Glue Networks](#glue-networks)
 - [Barracuda Networks](#barracuda-networks)
 - [Viprinet](#viprinet)
+- [Cradlepoint](#cradlepoint)
+- [Fortinet](#fortinet)
 
 ## VMWare NSX SD-WAN
 Confidence: Certain
@@ -387,3 +389,25 @@ Confidence: Certain
 
 #### Censys
 * 80.http.get.title:"Viprinet traffic tools"
+
+## Cradlepoint
+Confidence: Certain
+
+### Cradlepoint SD-WAN
+#### Shodan
+* title:"Login :: CR4250"
+* title:"Login :: AER2200"
+
+#### Censys
+* 80.http.get.title: "Login :: AER2200-600M"
+* 80.http.get.title: "Login :: CR4250-PoE"
+
+## Fortinet
+Confidence: Certain
+
+### Fortinet FortiGate
+#### Shodan
+* ssl:"OU=FortiGate" ssl:"O=Fortinet" ssl:CN=FGT
+
+#### Censys
+* (443.https.tls.certificate.parsed.subject.organization: Fortinet) AND (443.https.tls.certificate.parsed.subject.common_name: FGT-*)
