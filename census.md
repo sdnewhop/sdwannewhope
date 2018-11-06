@@ -26,6 +26,7 @@ The most popular and known SD-WAN solutions are enumerated using search engines.
 - [Glue Networks](#glue-networks)
 - [Barracuda Networks](#barracuda-networks)
 - [Viprinet](#viprinet)
+- [Cradlepoint](#cradlepoint)
 
 ## VMWare NSX SD-WAN
 Confidence: Certain
@@ -387,3 +388,15 @@ Confidence: Certain
 
 #### Censys
 * 80.http.get.title:"Viprinet traffic tools"
+
+## Cradlepoint
+Confidence: Certain
+
+### Cradlepoint SD-WAN
+#### Shodan
+* title:"Login :: CR4250"
+* title:"Login :: AER2200"
+
+#### Censys
+* 80.http.get.title: "Login :: AER2200-600M"
+* 80.http.get.title: "Login :: CR4250-PoE"
