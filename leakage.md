@@ -1,7 +1,7 @@
 # SD-WAN Version Leakage
 
 ## Overview
-The most popular and known SD-WAN solutions are enumerated using search engines.
+The most popular and known SD-WAN products leaking software versions are enumerated using search engines.
 
 ## Vendors
 - [VMWare NSX SD-WAN](#vmware-nsx-sd-wan)
