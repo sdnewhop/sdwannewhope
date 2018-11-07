@@ -195,12 +195,11 @@ Arista Networks EOS version 4.15.6M running on an Arista Networks DCS-7150S-24
 ## Glue Networks
 ### Gluware Control
 Dislosure: product version  
-Source: websocker
+Source: websocket  
 Example 1:
 ```
 © 2018 Gluware, Inc. v3.3.98 (July 10, 2018 6:27am)
 ```
-
 Example 2:
 ```
 <content-bar-item>v3.3.98 (July 10, 2018 6:27am)</content-bar-item>
