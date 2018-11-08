@@ -22,8 +22,9 @@ The goal of this project is to give answers on these questions by analysing diff
 * [SD-WAN Infiltrator](https://github.com/sdnewhop/sdwan-infiltrator)
 
 ## Talks
+* ["WebGoat.SDWAN.Net" in Depth. POC 2018](sdwan-poc2018.pdf)
 * [How To Hack SD-WAN And Keep Your Sanity?](https://www.youtube.com/watch?v=8jY0yPlW7xg)
-* [Practical threat modelling for SD-WAN. Area 41 2018](http://area41.io/slides/2018/AREA41_18_SDWAN.pdf)
+* [Practical Threat Modeling for SD-WAN. Area 41 2018](http://area41.io/slides/2018/AREA41_18_SDWAN.pdf)
 * [Too Soft[ware Defined] Networks: SD-WAN Vulnerability Assessment. Black Hat USA 2018](sdwan-bhusa2018.pdf)
 
 ## Contributors
