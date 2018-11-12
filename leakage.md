@@ -16,6 +16,7 @@ The most popular and known SD-WAN products leaking software versions are enumera
 - [Sonus SD-WAN](#sonus-sd-wan)
 - [Arista Networks EOS](#arista-networks-eos)
 - [Glue Networks](#glue-networks)
+- [Cradlepoint](#cradlepoint)
 
 ## VMWare NSX SD-WAN
 ### VeloCloud Network Orchestrator
@@ -203,4 +204,17 @@ Example 1:
 Example 2:
 ```
 <content-bar-item>v3.3.98 (July 10, 2018 6:27am)</content-bar-item>
+```
+
+## Cradlepoint
+### Cradlepoint SD-WAN
+Disclosure: product version  
+Source: HTML  
+Example (CR4250-PoE):  
+```
+<div id="displayfield-1031-inputEl" role="textbox" class="x-form-display-field x-form-display-field-default">6.6.4 (Thu Sep 27 20:58:36 UTC 2018)</div>
+```
+Example (AER2200-600M):
+```
+<div id="displayfield-1031-inputEl" role="textbox" class="x-form-display-field x-form-display-field-default">6.4.3 (Wed Dec 13 13:01:33 MST 2017)</div>
 ```
