@@ -6,6 +6,7 @@ The goal of this project is to give answers on these questions by analysing diff
 
 ## Papers
 * [SD-WAN Internet Census (preprint)](https://arxiv.org/abs/1808.09027)
+* [SD-WAN Threat Landscape (preprint)](https://arxiv.org/abs/1811.04583)
 
 ## Resources
 * [SD-WAN Census Queries List](census.md)
