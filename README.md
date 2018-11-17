@@ -13,6 +13,7 @@ The goal of this project is to give answers on these questions by analysing diff
 * [SD-WAN Census Version Leakage List](leakage.md)
 
 ## Reports
+* [Citrix SD-WAN Center Security Findings](https://github.com/sdnewhop/sdwannewhope/blob/master/Citrix%20SD-WAN%20Security%20Findings.pdf)
 * [Citrix NetScaler SD-WAN Security Findings](https://github.com/sdnewhop/sdwannewhope/blob/master/Citrix%20NetScaler%20SD-WAN%20Security%20Findings%20-%2011082018.pdf)
 * [Silverpeak EdgeConnect Multiple Vulnerabilities](https://github.com/sdnewhop/sdwannewhope/blob/master/Silverpeak%20EdgeConnect%20Multiple%20Vulnerabilities%20-%20032018.pdf)
 * [Riverbed SteelConnect Vulnerabilities](https://github.com/sdnewhop/sdwannewhope/blob/master/Riverbed%20SteelConnect%20Vulnerabilities.pdf)
