@@ -17,6 +17,7 @@ The most popular and known SD-WAN products leaking software versions are enumera
 - [Arista Networks EOS](#arista-networks-eos)
 - [Glue Networks](#glue-networks)
 - [Cradlepoint](#cradlepoint)
+- [Brain4Net](#brain4net)
 
 ## VMWare NSX SD-WAN
 ### VeloCloud Network Orchestrator
@@ -217,4 +218,23 @@ Example (CR4250-PoE):
 Example (AER2200-600M):
 ```
 <div id="displayfield-1031-inputEl" role="textbox" class="x-form-display-field x-form-display-field-default">6.4.3 (Wed Dec 13 13:01:33 MST 2017)</div>
+```
+
+## Brain4Net
+### Brain4Net Orchestrator
+Disclosure: product version  
+Source: JSON
+Example:  
+```
+{"api":"2.3.1","build":"2.4-FEATURE.ORC-2201","image":"orc-v2:4-FEATURE.ORC-2201"}
+```
+Example:
+```
+{
+  "REACT_APP_NG_PORT" : 81,
+  "REACT_APP_FRONTEND_WEB_PORT": 82,
+  "REACT_APP_FRONTEND_TERM_PORT": 83,
+  "REACT_APP_FRONTEND_STOMP_PORT": 84,
+  "REACT_APP_VERSION": "2.4.932-SNAPSHOT"
+}
 ```
