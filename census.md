@@ -28,7 +28,7 @@ The most popular and known SD-WAN solutions are enumerated using search engines.
 - [Viprinet](#viprinet)
 - [Cradlepoint](#cradlepoint)
 - [Fortinet](#fortinet)
-- [Brain4Net](#b4net)
+- [Brain4Net](#brain4net)
 
 ## VMWare NSX SD-WAN
 Confidence: Certain
