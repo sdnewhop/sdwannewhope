@@ -28,6 +28,7 @@ The most popular and known SD-WAN solutions are enumerated using search engines.
 - [Viprinet](#viprinet)
 - [Cradlepoint](#cradlepoint)
 - [Fortinet](#fortinet)
+- [Brain4Net](#b4net)
 
 ## VMWare NSX SD-WAN
 Confidence: Certain
@@ -411,3 +412,13 @@ Confidence: Certain
 
 #### Censys
 * (443.https.tls.certificate.parsed.subject.organization: Fortinet) AND (443.https.tls.certificate.parsed.subject.common_name: FGT-*)
+
+## Brain4Net
+Confidence: Certain
+
+### Brain4Net
+#### Shodan
+* title: B4N ORC
+
+#### Censys
+* 80.http.get.title: "B4N ORC"
