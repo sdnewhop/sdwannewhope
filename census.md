@@ -418,7 +418,7 @@ Confidence: Certain
 
 ### Brain4Net
 #### Shodan
-* title: B4N ORC
+* title:"B4N ORC"
 
 #### Censys
 * 80.http.get.title: "B4N ORC"
