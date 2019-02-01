@@ -12,7 +12,7 @@ The goal of this project is to give answers on these questions by analysing diff
 * [SD-WAN Census Queries List](census.md)
 * [SD-WAN Census Version Leakage List](leakage.md)
 
-## Reports
+## Public Reports
 * [Citrix SD-WAN Center Security Findings](https://github.com/sdnewhop/sdwannewhope/blob/master/Citrix%20SD-WAN%20Security%20Findings.pdf)
 * [Citrix NetScaler SD-WAN Security Findings](https://github.com/sdnewhop/sdwannewhope/blob/master/Citrix%20NetScaler%20SD-WAN%20Security%20Findings%20-%2011082018.pdf)
 * [Silverpeak EdgeConnect Multiple Vulnerabilities](https://github.com/sdnewhop/sdwannewhope/blob/master/Silverpeak%20EdgeConnect%20Multiple%20Vulnerabilities%20-%20032018.pdf)
@@ -23,12 +23,15 @@ The goal of this project is to give answers on these questions by analysing diff
 * [SD-WAN Harvester](https://github.com/sdnewhop/sdwan-harvester)
 * [SD-WAN Infiltrator](https://github.com/sdnewhop/sdwan-infiltrator)
 
-## Talks
+## Slides
 * [SD-WAN Internet Census. Zero Nights 2018](sdwan-zn2018.pdf)
 * ["WebGoat.SDWAN.Net" in Depth. POC 2018](sdwan-poc2018.pdf)
-* [How To Hack SD-WAN And Keep Your Sanity?](https://www.youtube.com/watch?v=8jY0yPlW7xg)
 * [Practical Threat Modeling for SD-WAN. Area 41 2018](http://area41.io/slides/2018/AREA41_18_SDWAN.pdf)
 * [Too Soft[ware Defined] Networks: SD-WAN Vulnerability Assessment. Black Hat USA 2018](sdwan-bhusa2018.pdf)
+
+## Talks
+* [SD-WAN a New Hop. How to hack software defined network and keep your sanity? CCC 2018](https://media.ccc.de/v/35c3-9446-sd-wan_a_new_hop)
+* [How To Hack SD-WAN And Keep Your Sanity? Ekoparty 2018](https://www.youtube.com/watch?v=8jY0yPlW7xg)
 
 ## Contributors
 - [Sergey Gordeychik](https://twitter.com/scadasl)
