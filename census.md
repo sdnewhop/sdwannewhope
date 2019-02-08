@@ -408,6 +408,7 @@ Confidence: Certain
 
 ### Fortinet FortiGate
 #### Shodan
+* http.favicon.hash:945408572 http.title:"302*" port:8008
 * ssl:"OU=FortiGate" ssl:"O=Fortinet" ssl:CN=FGT
 
 #### Censys
