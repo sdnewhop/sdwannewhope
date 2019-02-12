@@ -18,6 +18,7 @@ The most popular and known SD-WAN products leaking software versions are enumera
 - [Glue Networks](#glue-networks)
 - [Cradlepoint](#cradlepoint)
 - [Brain4Net](#brain4net)
+- [Fortinet](#fortinet)
 
 ## VMWare NSX SD-WAN
 ### VeloCloud Network Orchestrator
@@ -223,7 +224,7 @@ Example (AER2200-600M):
 ## Brain4Net
 ### Brain4Net Orchestrator
 Disclosure: product version  
-Source: JSON
+Source: JSON  
 Example:  
 ```
 {"api":"2.3.1","build":"2.4-FEATURE.ORC-2201","image":"orc-v2:4-FEATURE.ORC-2201"}
@@ -237,4 +238,22 @@ Example:
   "REACT_APP_FRONTEND_STOMP_PORT": 84,
   "REACT_APP_VERSION": "2.4.932-SNAPSHOT"
 }
+```
+
+## Fortinet
+### Fortinet FortiGate Secure SD-WAN
+Disclosure: build version, model  
+Source: JavaScript (`fweb_all.js`)  
+Example:  
+```
+CONFIG: {
+    CONFIG_BUILD_NUMBER: 231,
+    CONFIG_GUI_NO: "0cebad09e7db38e5316621c963cf944e",
+    CONFIG_MAJOR_NUM: 6,
+    CONFIG_MINOR_NUM: 0,
+    CONFIG_MODEL: "FGT_81E_POE",
+    CONFIG_MODEL_LEVEL_LOW: !0,
+    CONFIG_PATCH_NUM: 4,
+    CONFIG_SQL_LOG: !0
+},
 ```
