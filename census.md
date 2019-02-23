@@ -103,6 +103,7 @@ Confidence: Certain
 * versa-analytics port:161
 * "van_analytics" port:9160
 * ssl:"versa-analytics"
+* "server:Versa-Analytics-Server"
 
 #### Censys
 * 443.https.tls.certificate.parsed.issuer.common_name:"versa-analytics"
