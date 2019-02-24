@@ -11,6 +11,7 @@ The goal of this project is to give answers on these questions by analysing diff
 ## Resources
 * [SD-WAN Census Queries List](census.md)
 * [SD-WAN Census Version Leakage List](leakage.md)
+* [SD-WAN Security Assessment: The First Hours](https://github.com/sdnewhop/sdwannewhope/blob/master/sd-wan-security-assessment-the-first-hours.md)
 
 ## Public Reports
 * [Citrix SD-WAN Center Security Findings](https://github.com/sdnewhop/sdwannewhope/blob/master/Citrix%20SD-WAN%20Security%20Findings.pdf)
