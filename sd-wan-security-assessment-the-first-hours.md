@@ -14,6 +14,36 @@ This document is based on the JP Aumasson's approach described in series of audi
 [[2](https://research.kudelskisecurity.com/2017/04/24/auditing-code-for-crypto-flaws-the-first-30-minutes/)]).
 
 The main idea is to list basic sanity checks that can be used when investigating SD-WAN.
-We will follow this idea and consider checks that cen be applied to any SD-WAN system.
+We will follow this idea and consider checks that can be applied to any SD-WAN system.
 
 ## SD-WAN Security Assessment Checklist
+
+### Common
+
+1. What third-party components and libraries are used? How secure are these? Are the components using their latest versions?
+
+### Cryptography
+
+1. What cryptographic protocols and implementations are used on the dataplane?
+2. Are AEAD primitives are supported?
+3. How key management is implemented?
+4. How consistent are the security levels of the various protocols and primitives?
+5. Look for legacy primitives like DES, TripleDES, RC4, MD5, SHA1
+
+### Secure Communications
+
+1. What protocols are used between orchestrator, controller, and edge devices? Are they secured?
+2. How SD-WAN entities are authenticated?
+3. Run WhireShark on ochestrator and controller nodes, review traffic and check whether unencrypted packets are sent.
+4. Do the chosen protocols and primitives provide the security required by your threat model?
+5. Is RSA key exchange is used?
+6. Where and how secrets are stored?
+7. Check whether the same hardcoded certificate is used on different deployments.
+8. Is key renewal mechanism is supported on control channels?
+
+### Web Management Interface
+
+1. Protection against CSRF attacks.
+2. HTTPS supporting and hardening.
+3. Protection against Slow HTTP DoS attacks.
+4. Are cryptography secrets accessible via the Web interface?
