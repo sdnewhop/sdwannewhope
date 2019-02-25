@@ -22,7 +22,7 @@ We will follow this idea and consider checks that can be applied to any SD-WAN s
 
 1. What third-party components and libraries are used? How secure are these? Are the components using their latest versions?
 2. Run [lynis](https://github.com/CISOfy/lynis) tool on each node and assess the hardening level.
-3. Run a host-based vulnerability scanner ([vulners](https://github.com/videns/vulners-scanner), [LibScanner](https://github.com/DanBeard/LibScanner), etc.) and assess
+3. Run a host-based vulnerability scanner ([vulners](https://github.com/videns/vulners-scanner), [LibScanner](https://github.com/DanBeard/LibScanner), etc.) and assess the patch management level.
 
 ### Cryptography
 
