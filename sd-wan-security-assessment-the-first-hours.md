@@ -13,8 +13,8 @@ This document is based on the JP Aumasson's approach described in series of audi
 ([[1](https://research.kudelskisecurity.com/2019/02/07/auditing-rust-crypto-the-first-hours/)],
 [[2](https://research.kudelskisecurity.com/2017/04/24/auditing-code-for-crypto-flaws-the-first-30-minutes/)]).
 
-The main idea is to list basic sanity checks that can be used when investigating SD-WAN.
-We will follow this idea and consider checks that can be applied to any SD-WAN system.
+The main goal of this document is to list basic sanity checks that can be used when investigating SD-WAN.
+We will consider general checks that can be applied to any SD-WAN system.
 
 ## SD-WAN Security Assessment Checklist
 
@@ -24,10 +24,13 @@ We will follow this idea and consider checks that can be applied to any SD-WAN s
 2. Run [lynis](https://github.com/CISOfy/lynis) tool on each node and assess the hardening level.
 3. Run a host-based vulnerability scanner ([vulners](https://github.com/videns/vulners-scanner), [LibScanner](https://github.com/DanBeard/LibScanner), etc.) and assess the patch management level.
 
+### Architecture
+1. Is a vendor-controlled cloud management interface used within the architecture?
+
 ### Cryptography
 
 1. Which cryptographic protocols and implementations are used on the dataplane?
-2. Are AEAD primitives are supported?
+2. Are AEAD ciphers supported?
 3. How key management is implemented?
 4. How consistent are the security levels of the various protocols and primitives?
 5. Look for legacy primitives like DES, TripleDES, RC4, MD5, SHA1 or custom primitives.
