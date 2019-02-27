@@ -69,24 +69,27 @@ viptela 17.2.4
 
 ## Versa Networks
 ### Versa Analytics
-Dislosure: SSO
-Source: JSON (`/versa/analytics/auth/sso/info`)
-Example:
+Dislosure: SSO  
+Source: JSON (`/versa/analytics/auth/sso/info`)  
+Example:  
 ```
 {"isSSOEnabled":false}
-
 ```
 Dislosure: Full version  
-Source: JSON (`/versa/analytics/version`)
-Example:
+Source: JSON (`/versa/analytics/version`)  
+Example:  
 ```
 {"package":"Versa Analytics","releaseDate":"Fri Nov 16 16:46:54 PST 2018","release":"16.1R2S6","dbVersion":"3.8.10","appId":"f23f3c","packageId":"f0fb84f","uiPackageId":"59819c3"}
-
 ```
-
+Disclosure: Analytics Driver  
+Source: HTML (port 5000)  
+Example:  
+```
+<body>Versa Analytics Driver v2.1</body>
+```
 Dislosure: Indirect analytics version  
 Source: JavaScript (`/versa/app/js/common/constants.js`)  
-Example:
+Example:  
 ```
 ANALYTICS_PATH : "/analytics/v1.0.0/",
 REPORTING_PATH : "/analytics/v1.0.0/",
