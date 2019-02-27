@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Suppose you need to perform a security assessment for an SD-WAN solution.
+Suppose you need to perform a security assessment of an SD-WAN solution.
 There are several reasons for this: one of them is selecting SD-WAN provider and product.
 
 A traditional SD-WAN system consists of many technologies, planes, services, and features.
