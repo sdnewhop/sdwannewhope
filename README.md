@@ -26,7 +26,7 @@ The goal of this project is to give answers on these questions by analysing diff
 * [SD-WAN Infiltrator](https://github.com/sdnewhop/sdwan-infiltrator)
 
 ## Slides
-* [SD-WAN: Yet Another Way to Unsafe Internet](insomnihack-2019.pdf)
+* [SD-WAN: Yet Another Way to Unsafe Internet. InsomniHack 2019](insomnihack-2019.pdf)
 * [SD-WAN Internet Census. Zero Nights 2018](sdwan-zn2018.pdf)
 * ["WebGoat.SDWAN.Net" in Depth. POC 2018](sdwan-poc2018.pdf)
 * [Practical Threat Modeling for SD-WAN. Area 41 2018](http://area41.io/slides/2018/AREA41_18_SDWAN.pdf)
