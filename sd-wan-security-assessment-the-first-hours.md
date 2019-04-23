@@ -3,11 +3,10 @@
 ## Introduction
 
 Suppose you need to perform a security assessment of an SD-WAN solution.
-There are several reasons for this: one of them is selecting SD-WAN provider and product.
+There are several reasons for this: one of them is selecting SD-WAN provider or product.
 
-A traditional SD-WAN system consists of many technologies, planes, services, and features.
-It has distributed and multylayered architecture...
-So where should you start?
+A traditional SD-WAN system involves many planes, technologies, mechanismsa, services, and features.
+It has distributed and multilayered architecture. So where should you start?
 
 This document is based on the JP Aumasson's approach described in series of auditing crypto articles
 ([[1](https://research.kudelskisecurity.com/2019/02/07/auditing-rust-crypto-the-first-hours/)],
@@ -27,6 +26,12 @@ We will consider general checks that can be applied to any SD-WAN system.
 ### Architecture
 1. Is a vendor-controlled cloud management interface used within the architecture?
 
+### Zero Touch Provisioning
+1. How does a network device get its initial configuration?
+2. How does a network device discover controller, orchestrator and other entities?
+3. How do network devices, the controller and the orchestrator authenticate each other?
+4. How trust is provisioned and what mechanisms are used? One-time tokens, X.509 certificates, login and password, pre-shared keys?
+
 ### Cryptography
 
 1. Which cryptographic protocols and implementations are used on the dataplane?
@@ -38,13 +43,13 @@ We will consider general checks that can be applied to any SD-WAN system.
 ### Secure Communications
 
 1. Which protocols are used between orchestrator, controller, and edge devices? Are they secured?
-2. How SD-WAN entities are authenticated?
-3. Run WhireShark on ochestrator and controller nodes, review traffic and check whether unencrypted packets are sent.
+2. How SD-WAN entities do authenticate each other?
+3. Run WhireShark on ochestrator or controller nodes, review traffic and check whether unencrypted packets are sent.
 4. Do the chosen protocols and primitives provide the security required by your threat model?
-5. Is RSA key exchange is used?
-6. Where and how secrets are stored?
+5. Is RSA key exchange used?
+6. Where and how secrets (e.g., private keys, pre-shared keys, tokens) are stored?
 7. Check whether the same hardcoded certificate is used on different deployments.
-8. Is a key renewal mechanism is supported on control channels?
+8. Is a key renewal mechanism supported on control channels?
 
 ### Web Management Interface
 
