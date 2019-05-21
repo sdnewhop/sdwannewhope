@@ -20,6 +20,9 @@ The goal of this project is to give answers on these questions by analysing diff
 * [Riverbed SteelConnect Vulnerabilities](https://github.com/sdnewhop/sdwannewhope/blob/master/Riverbed%20SteelConnect%20Vulnerabilities.pdf)
 * [Viprinet Virtual VPN Hub Stored XSS](https://github.com/sdnewhop/sdwannewhope/blob/master/Viprinet%20Stored%20XSS.pdf) 
 
+## Checklists
+* [SD-WAN Security Assessment: The First Hours](https://github.com/sdnewhop/sdwannewhope/blob/master/sd-wan-security-assessment-the-first-hours.md)
+
 ## Tools
 * [Grinder Framework](https://github.com/sdnewhop/grinder)
 * [SD-WAN Harvester](https://github.com/sdnewhop/sdwan-harvester)
