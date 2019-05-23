@@ -29,6 +29,7 @@ The goal of this project is to give answers on these questions by analysing diff
 * [SD-WAN Infiltrator](https://github.com/sdnewhop/sdwan-infiltrator)
 
 ## Slides
+* [SD-WAN Secure Communications. OSN Meetup. 2019](https://github.com/sdnewhop/sdwannewhope/blob/master/OSN%20Meetup%20SD-WAN%20Secure%20Comm.pdf)
 * [SD-WAN: Yet Another Way to Unsafe Internet. InsomniHack 2019](insomnihack-2019.pdf)
 * [SD-WAN Internet Census. Zero Nights 2018](sdwan-zn2018.pdf)
 * ["WebGoat.SDWAN.Net" in Depth. POC 2018](sdwan-poc2018.pdf)
