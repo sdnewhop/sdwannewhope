@@ -1,3 +1,4 @@
+![logo](sdwan-logo.png)
 # SD-WAN New Hope
 
 Software-defined networking in a wide area network (SD-WAN) quickly becomes very popular in Enterprises. Vendors promise "on-the-fly agility, simplicity, security and automation" and many other benefits. 
