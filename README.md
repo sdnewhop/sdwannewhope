@@ -1,8 +1,8 @@
-# SDWAN New Hope
+# SD-WAN New Hope
 
-Software-defined networking in a wide area network (SD-WAN) quickly becomes very popular in Enterprises. Vendors promises "on-the-fly agility, simplicity, security and automation" and many other benefits. 
-What do you know about SD-WAN? What the "security" means from hand-on perspective? Are present SD-WAN solutions really secure? 
-The goal of this project is to give answers on these questions by analysing different real SD-WAN solutions from the adversaries' point of view.
+Software-defined networking in a wide area network (SD-WAN) quickly becomes very popular in Enterprises. Vendors promise "on-the-fly agility, simplicity, security and automation" and many other benefits. 
+What do you know about SD-WAN? What the "security" means from a hands-on perspective? Are present SD-WAN products really secure? 
+The goal of this project is to give answers on these questions by exploring security of SD-WAN solutions from a practical point of view.
 
 ## Papers
 * [SD-WAN Internet Census (preprint)](https://arxiv.org/abs/1808.09027)
@@ -38,6 +38,7 @@ The goal of this project is to give answers on these questions by analysing diff
 * [Too Soft[ware Defined] Networks: SD-WAN Vulnerability Assessment. Black Hat USA 2018](slides/blackhat-2018.pdf)
 
 ## Talks
+* [SD-WAN Secure Communications. Yandex OSN Meetup 2019 (Russian)](https://www.youtube.com/watch?v=gHRustiUdKY)
 * [SD-WAN a New Hop. How to hack software defined network and keep your sanity? CCC 2018](https://media.ccc.de/v/35c3-9446-sd-wan_a_new_hop)
 * [How To Hack SD-WAN And Keep Your Sanity? Ekoparty 2018](https://www.youtube.com/watch?v=8jY0yPlW7xg)
 
