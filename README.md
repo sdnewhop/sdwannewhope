@@ -29,6 +29,7 @@ The goal of this project is to give answers on these questions by exploring secu
 * [SD-WAN Infiltrator](https://github.com/sdnewhop/sdwan-infiltrator)
 
 ## Slides
+* [One Framework to Rule Them All: A framework for Internet-connected Device Census. OFFZONE 2019](/slides/offzone-grinder-2019.pdf)
 * [A dive in to SD-WAN Insecure Designs and Vulnerabilities. SecurityFest 2019](slides/securityfest-2019.pdf)
 * [SD-WAN New Hope. PHDays 2019](slides/phdays-2019.pdf)
 * [SD-WAN Secure Communications. Yandex OSN Meetup 2019](slides/yandex-osn-2019.pdf)
