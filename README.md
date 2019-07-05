@@ -12,6 +12,7 @@ The goal of this project is to give answers on these questions by exploring secu
 ## Knowledge Base
 * [SD-WAN Census Queries List](docs/census.md)
 * [SD-WAN Version Leakage List](docs/leakage.md)
+* [Silver Peak VXOA 8.1 Vulnerabilities](docs/silverpeak-vxoa-8.1.pdf
 
 ## Public Reports
 * [Citrix SD-WAN Center Security Findings](reports/Citrix%20SD-WAN%20Security%20Findings.pdf)
