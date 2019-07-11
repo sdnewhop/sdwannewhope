@@ -29,6 +29,9 @@ The most popular and known SD-WAN solutions are enumerated using search engines.
 - [Cradlepoint](#cradlepoint)
 - [Fortinet](#fortinet)
 - [Brain4Net](#brain4net)
+- [FlexiWAN](#flexiwan)
+- [OpenDaylight](#opendaylight)
+- [Tallac Networks](#tallac-networks)
 
 ## VMWare NSX SD-WAN
 Confidence: Certain
@@ -424,3 +427,35 @@ Confidence: Certain
 
 #### Censys
 * 80.http.get.title: "B4N ORC"
+
+## FlexiWAN
+Confidence: Certain
+
+### FlexiWAN Management
+#### Shodan 
+* http.html:"flexiwan"  
+* http.title:"FlexiWAN Management"  
+
+#### Censys
+* 443.https.get.body: "flexiwan"
+* 443.https.get.title: "flexiwan"
+
+## OpenDaylight
+Confidence: Certain
+
+### OpenDaylight SDN Controller
+#### Shodan
+* http.title:"OpenDaylight - Login"  
+
+#### Censys
+* 8080.http.get.title: "OpenDaylight - Login"
+
+## Tallac Networks
+Confidence: Certain
+
+### Tallac SDN Activity Manager
+#### Shodan
+* http.title:"SDN Activity Manager"  
+
+#### Censys
+* 443.https.get.title: "SDN Activity Manager"
