@@ -438,7 +438,7 @@ Confidence: Certain
 
 #### Censys
 * 443.https.get.body: "flexiwan"
-* 443.https.get.title: "flexiwan"
+* 443.https.get.title: "FlexiWAN Management"
 
 ## OpenDaylight
 Confidence: Certain
