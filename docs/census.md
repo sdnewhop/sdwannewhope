@@ -32,6 +32,8 @@ The most popular and known SD-WAN solutions are enumerated using search engines.
 - [FlexiWAN](#flexiwan)
 - [OpenDaylight](#opendaylight)
 - [Tallac Networks](#tallac-networks)
+- [Cato Networks](#cato-networks)
+- [SimpleWAN](#simplewan)
 
 ## VMWare NSX SD-WAN
 Confidence: Certain
@@ -459,3 +461,26 @@ Confidence: Certain
 
 #### Censys
 * 443.https.get.title: "SDN Activity Manager"
+
+## Cato Networks
+Confidence: Firm
+
+### Cato Networks Edge SD-WAN (Cato Networks Socket)
+#### Shodan
+* http.title:"Cato Networks"
+* http.title:"Cato Networks Socket"
+
+#### Censys
+* 443.https.get.title: "Cato Networks"
+* 443.https.get.title: "Cato Networks Socket"
+
+## SimpleWAN
+Confidence: Certain
+
+### SimpleWAN SD-WAN 2.0
+#### Shodan
+* http.title:"SimpleWAN Dashboard"
+* http.favicon.hash:-517891188
+
+#### Censys
+* 443.https.get.title: "SimpleWAN Dashboard"
