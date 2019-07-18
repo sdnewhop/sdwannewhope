@@ -34,6 +34,8 @@ The most popular and known SD-WAN solutions are enumerated using search engines.
 - [Tallac Networks](#tallac-networks)
 - [Cato Networks](#cato-networks)
 - [SimpleWAN](#simplewan)
+- [Brocade Communications Systems](#brocade-communications-systems)
+- [Ubiquiti Networks](#ubiquiti-networks)
 
 ## VMWare NSX SD-WAN
 Confidence: Certain
@@ -484,3 +486,23 @@ Confidence: Certain
 
 #### Censys
 * 443.https.get.title: "SimpleWAN Dashboard"
+
+## Brocade Communications Systems
+Confidence: Certain
+
+### Brocade Services Director
+#### Shodan
+* http.favicon.hash:12809338
+
+#### Censys
+* 443.https.get.body: "Brocade Communications Systems, Inc. All rights reserved."
+
+## Ubiquiti Networks
+Confidence: Firm
+
+### Unifi SDN Controller
+#### Shodan
+* http.title:"UniFi SDN"
+
+#### Censys
+* 443.https.get.title: "UniFi SDN"
