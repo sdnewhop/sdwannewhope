@@ -36,6 +36,7 @@ The most popular and known SD-WAN solutions are enumerated using search engines.
 - [SimpleWAN](#simplewan)
 - [Brocade Communications Systems](#brocade-communications-systems)
 - [Ubiquiti Networks](#ubiquiti-networks)
+- [Masergy](#masergy)
 
 ## VMWare NSX SD-WAN
 Confidence: Certain
@@ -327,7 +328,7 @@ Confidence: Certain
 
 ### Sonus SBC Management Application
 #### Shodan
-title:"SBC Management Application"
+* title:"SBC Management Application"
 
 ### Sonus SBC Edge
 #### Shodan
@@ -506,3 +507,11 @@ Confidence: Firm
 
 #### Censys
 * 443.https.get.title: "UniFi SDN"
+
+## Masergy
+Confidence: Firm
+
+### Masergy Managed SD‑WAN
+#### Shodan
+* http.favicon.hash:-1188037111
+
