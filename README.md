@@ -19,7 +19,8 @@ The goal of this project is to give answers on these questions by exploring secu
 * [Citrix NetScaler SD-WAN Security Findings](reports/Citrix%20NetScaler%20SD-WAN%20Security%20Findings%20-%2011082018.pdf)
 * [Silverpeak EdgeConnect Multiple Vulnerabilities](reports/Silverpeak%20EdgeConnect%20Multiple%20Vulnerabilities%20-%20032018.pdf)
 * [Riverbed SteelConnect Vulnerabilities](reports/Riverbed%20SteelConnect%20Vulnerabilities.pdf)
-* [Viprinet Virtual VPN Hub Stored XSS](reports/Viprinet%20Stored%20XSS.pdf) 
+* [Viprinet Virtual VPN Hub Stored XSS](reports/Viprinet%20Stored%20XSS.pdf)
+* [Versa Analytics Security Assessment](reports/Versa%20Analytics%20Security%20Assessment%20-%2009112019.pdf)
 
 ## Checklists
 * [SD-WAN Security Assessment: The First Hours](checklists/sd-wan-security-assessment-the-first-hours.md)
