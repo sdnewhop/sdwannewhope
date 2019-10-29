@@ -2,8 +2,8 @@
 # SD-WAN New Hope
 
 Software-defined networking in a wide area network (SD-WAN) quickly becomes very popular in Enterprises. Vendors promise "on-the-fly agility, simplicity, security and automation" and many other benefits. 
-What do you know about SD-WAN? What the "security" means from a hands-on perspective? Are present SD-WAN products really secure? 
-The goal of this project is to give answers on these questions by exploring security of SD-WAN solutions from a practical point of view.
+What do you know about SD-WAN? What "security" means from a hands-on perspective? Are present SD-WAN products really secure? 
+The goal of this project is to give answers to these questions by exploring security of SD-WAN solutions from a practical point of view.
 
 ## Papers
 * [SD-WAN Internet Census (preprint)](https://arxiv.org/abs/1808.09027)
