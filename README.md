@@ -3,11 +3,13 @@
 
 Software-defined networking in a wide area network (SD-WAN) quickly becomes very popular in Enterprises. Vendors promise "on-the-fly agility, simplicity, security and automation" and many other benefits. 
 What do you know about SD-WAN? What "security" means from a hands-on perspective? Are present SD-WAN products really secure? 
-The goal of this project is to give answers to these questions by exploring security of SD-WAN solutions from a practical point of view.
+
+The goal of this project is to give answers to these questions by exploring implementation security of real SD-WAN solutions from a practical point of view.
 
 ## Papers
 * [SD-WAN Internet Census (preprint)](https://arxiv.org/abs/1808.09027)
 * [SD-WAN Threat Landscape (preprint)](https://arxiv.org/abs/1811.04583)
+* [Practical Security Assessment of SD-WAN Implementations](https://medium.com/hackingodyssey/practical-security-assessment-of-sd-wan-implementations-c8aa51441c68)
 
 ## Knowledge Base
 * [SD-WAN Census Queries List](docs/census.md)
@@ -31,6 +33,7 @@ The goal of this project is to give answers to these questions by exploring secu
 * [SD-WAN Infiltrator](https://github.com/sdnewhop/sdwan-infiltrator)
 
 ## Slides
+* [SD-WAN Secure Communication Designs and Vulnerabilities. DeepSec 2019](slides/DeepSec-2019.pdf)
 * [One Framework to Rule Them All: A framework for Internet-connected Device Census. OFFZONE 2019](/slides/offzone-grinder-2019.pdf)
 * [A dive in to SD-WAN Insecure Designs and Vulnerabilities. SecurityFest 2019](slides/securityfest-2019.pdf)
 * [SD-WAN New Hope. PHDays 2019](slides/phdays-2019.pdf)
