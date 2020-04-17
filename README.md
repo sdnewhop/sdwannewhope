@@ -45,6 +45,7 @@ The goal of this project is to give answers to these questions by exploring impl
 * [Too Soft[ware Defined] Networks: SD-WAN Vulnerability Assessment. Black Hat USA 2018](slides/blackhat-2018.pdf)
 
 ## Talks
+* [SD-WAN Secure Communications Design and Vulnerabilities. DeepSec 2019](https://vimeo.com/390850895)
 * [SD-WAN Secure Communications. Yandex OSN Meetup 2019 (Russian)](https://www.youtube.com/watch?v=gHRustiUdKY)
 * [SD-WAN a New Hop. How to hack software defined network and keep your sanity? CCC 2018](https://media.ccc.de/v/35c3-9446-sd-wan_a_new_hop)
 * [How To Hack SD-WAN And Keep Your Sanity? Ekoparty 2018](https://www.youtube.com/watch?v=8jY0yPlW7xg)
