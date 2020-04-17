@@ -58,3 +58,4 @@ The goal of this project is to give answers to these questions by exploring impl
 - [Nikita Oleksov](https://twitter.com/neoleksov)
 - [Oleg Broslavsky](https://twitter.com/yalegko)
 - [Anton Nikolaev](https://github.com/manmolecular)
+- [Maria Nedyak](https://twitter.com/msh_smlv)
