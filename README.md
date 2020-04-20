@@ -17,11 +17,22 @@ The goal of this project is to give answers to these questions by exploring impl
 * [Silver Peak VXOA 8.1 Vulnerabilities](docs/silverpeak-vxoa-8.1.pdf)
 
 ## Public Reports
+
+### SilvePeak
+* [SilverPeak’s IPsec UDP protocol implementation fails to provide forward secrecy](reports/SDWAN-New-Hop-2020-17-01.pdf)
+* [Silverpeak EdgeConnect Multiple Vulnerabilities](reports/Silverpeak%20EdgeConnect%20Multiple%20Vulnerabilities%20-%20032018.pdf)
+
+### Citrix
 * [Citrix SD-WAN Center Security Findings](reports/Citrix%20SD-WAN%20Security%20Findings.pdf)
 * [Citrix NetScaler SD-WAN Security Findings](reports/Citrix%20NetScaler%20SD-WAN%20Security%20Findings%20-%2011082018.pdf)
-* [Silverpeak EdgeConnect Multiple Vulnerabilities](reports/Silverpeak%20EdgeConnect%20Multiple%20Vulnerabilities%20-%20032018.pdf)
+
+### Riverbed
 * [Riverbed SteelConnect Vulnerabilities](reports/Riverbed%20SteelConnect%20Vulnerabilities.pdf)
+
+### Viprinet
 * [Viprinet Virtual VPN Hub Stored XSS](reports/Viprinet%20Stored%20XSS.pdf)
+
+### Versa
 * [Versa Analytics Security Assessment](reports/Versa%20Analytics%20Security%20Assessment%20-%2009112019.pdf)
 
 ## Checklists
