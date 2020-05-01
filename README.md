@@ -19,6 +19,8 @@ The goal of this project is to give answers to these questions by exploring impl
 ## Public Reports
 
 ### SilvePeak
+* [Malicious Portal Can Access REST API on EdgeConnect](reports/SDWAN-New-Hop-2020-31-01.pdf)
+* [Malicious or Untrusted Orchestrator Can Access REST API on EdgeConnect](reports/SDWAN-New-Hop-2020-30-01.pdf) 
 * [SilverPeak’s IPsec UDP protocol implementation fails to provide forward secrecy](reports/SDWAN-New-Hop-2020-17-01.pdf)
 * [Silverpeak EdgeConnect Multiple Vulnerabilities](reports/Silverpeak%20EdgeConnect%20Multiple%20Vulnerabilities%20-%20032018.pdf)
 
