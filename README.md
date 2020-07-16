@@ -11,6 +11,7 @@ The goal of this project is to give answers to these questions by exploring impl
 * [SD-WAN Threat Landscape (preprint)](https://arxiv.org/abs/1811.04583)
 * [Practical Security Assessment of SD-WAN Implementations](https://medium.com/hackingodyssey/practical-security-assessment-of-sd-wan-implementations-c8aa51441c68)
 * [SD-WAN Security: A Product Liability Insurance Law Would Certainly Help](https://blog.ipspace.net/2020/06/sdwan-silver-peak-security.html)
+* [SD-WAN TLS Scanning (draft)](https://docs.google.com/document/d/1TCCGWkFKp07Bg7hEeKeqkwogi5UaArbJ_OpEJsyiuy8/)
 
 ## Knowledge Base
 * [SD-WAN Census Queries List](docs/census.md)
