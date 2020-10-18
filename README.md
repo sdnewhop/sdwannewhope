@@ -70,6 +70,7 @@ The goal of this project is to give answers to these questions by exploring impl
 - [Alex Timorin](https://twitter.com/atimorin)
 - [Denis Kolegov](https://twitter.com/dnkolegov)
 - Maxim Gorbunov
+- [Christoph Jaggi](https://uebermeister.com/about.html)
 - [Nikolay Tkachenko](https://twitter.com/afr1ka_)
 - [Nikita Oleksov](https://twitter.com/neoleksov)
 - [Oleg Broslavsky](https://twitter.com/yalegko)
